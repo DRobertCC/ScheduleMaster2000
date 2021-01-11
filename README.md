@@ -16,3 +16,7 @@ Before deploying to a webserver create a `Resource` in the webserver's config (e
           url="jdbc:postgresql://localhost:5432/schedulemaster2000"
           closeMethod="close"/>
 ```
+
+## About
+
+This app was written by a Codecooler, Róbert Dancsó from Miskolc.
